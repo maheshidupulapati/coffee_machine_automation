@@ -84,3 +84,4 @@ while is_on:
                 make_coffee(choice, drink["ingredients"])
 
  print(f"menu:{MENU['latte']}")
+print(f"menu:{MENU['latte']}")
