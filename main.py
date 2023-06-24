@@ -83,4 +83,4 @@ while is_on:
             if is_transaction_succesful(payment, drink["cost"]):
                 make_coffee(choice, drink["ingredients"])
 
-# print(f"menu:{MENU['latte']}")
+ print(f"menu:{MENU['latte']}")
